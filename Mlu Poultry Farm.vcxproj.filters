@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="vite.config.js" />
+    <None Include="package.json" />
+    <None Include=".gitignore" />
+    <None Include="src\App.jsx" />
+    <None Include="index.html" />
+    <None Include="README.md" />
+    <None Include="src\main.jsx" />
+    <None Include="src\styles\App.css" />
+    <None Include="src\components\Footer.jsx" />
+    <None Include="src\styles\global.css" />
+    <None Include="src\components\About.jsx" />
+    <None Include="src\App.test.jsx" />
+    <None Include="src\components\Hero.jsx" />
+    <None Include="src\components\Contact.jsx" />
+    <None Include="src\components\Stats.jsx" />
+    <None Include="src\components\Products.jsx" />
+    <None Include="src\components\Testimonials.jsx" />
+    <None Include="src\firebase\config.js" />
+    <None Include="src\context\CartContext.jsx" />
+    <None Include="src\components\Header.jsx" />
+    <None Include="src\pages\CartPage.jsx" />
+    <None Include="src\pages\CheckoutPage.jsx" />
+    <None Include="src\pages\OrderSuccessPage.jsx" />
+    <None Include="src\pages\AdminLoginPage.jsx" />
+    <None Include="src\pages\AdminDashboardPage.jsx" />
+    <None Include="src\pages\HomePage.jsx" />
+    <None Include="src\styles\Header.css" />
+    <None Include="src\styles\Cart.css" />
+    <None Include="src\styles\Checkout.css" />
+    <None Include="src\styles\OrderSuccess.css" />
+    <None Include="src\styles\Admin.css" />
+    <None Include="PHASE1_SETUP.md" />
+    <None Include="src\services\quotationService.js" />
+    <None Include="src\pages\QuotationRequestPage.jsx" />
+    <None Include="src\pages\QuotationSuccessPage.jsx" />
+    <None Include="src\pages\AdminQuotationsPage.jsx" />
+    <None Include="src\styles\QuotationRequest.css" />
+    <None Include="src\styles\QuotationSuccess.css" />
+    <None Include="src\styles\AdminQuotations.css" />
+    <None Include="PHASE2_SETUP.md" />
+    <None Include="QUOTATION_GUIDE.md" />
+    <None Include="QUOTATIONS_VS_ORDERS.md" />
+    <None Include="PHASE2_CHECKLIST.md" />
+    <None Include="TESTIMONIALS_UPDATE.md" />
+    <None Include="src\services\testimonialService.js" />
+    <None Include="src\pages\TestimonialSubmissionPage.jsx" />
+    <None Include="src\pages\TestimonialSuccessPage.jsx" />
+    <None Include="src\pages\AdminTestimonialsPage.jsx" />
+    <None Include="src\styles\TestimonialSubmission.css" />
+    <None Include="src\styles\TestimonialSuccess.css" />
+    <None Include="src\styles\AdminTestimonials.css" />
+  </ItemGroup>
+</Project>
