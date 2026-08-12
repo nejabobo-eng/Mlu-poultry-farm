@@ -5,7 +5,8 @@ export default function Header() {
     <header className="site-header">
       <div className="header-container">
         <div className="logo" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}>
-          <h2>Mlu Poultry Farm (Pty) Ltd</h2>
+          <img src="/images/logo/mlu-poultry-farm-logo.png" alt="Mlu Poultry Farm" className="site-logo" />
+          <h2>Mlu Poultry Farm</h2>
         </div>
 
         <nav className="header-nav">

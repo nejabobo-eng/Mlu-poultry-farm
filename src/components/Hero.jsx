@@ -10,10 +10,11 @@ export default function Hero() {
   return (
     <section className="hero">
       <div className="hero-overlay"></div>
-      <div className="hero-image" style={{ backgroundImage: "url('https://via.placeholder.com/1600x700?text=Chicken+Farm+Image')" }}></div>
+      <div className="hero-image" style={{ backgroundImage: "url('/images/hero/hero-broilers-01.png')" }}></div>
 
       <div className="hero-content">
-        <h1>Mlu Poultry Farm (Pty) Ltd</h1>
+        <img src="/images/logo/mlu-poultry-farm-logo.png" alt="Mlu Poultry Farm" style={{ height: 80, marginBottom: 12 }} />
+        <h1>Mlu Poultry Farm</h1>
         <h2>Quality Poultry Products You Can Trust</h2>
 
         <p className="hero-intro">

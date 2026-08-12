@@ -24,6 +24,14 @@
   transition: transform 0.3s ease;
 }
 
+.site-logo {
+  height: 48px;
+  width: auto;
+  margin-right: 12px;
+  vertical-align: middle;
+  display: inline-block;
+}
+
 .logo:hover {
   transform: scale(1.05);
 }
