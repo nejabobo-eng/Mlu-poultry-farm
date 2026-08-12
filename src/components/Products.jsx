@@ -16,6 +16,10 @@ export default function Products({ products = [] }) {
             <div className="product-info">
               <h3>{product.name}</h3>
               <p className="product-description">{product.description}</p>
+              <div className="product-actions">
+                <a href="/contact" className="btn-secondary">Enquire Now</a>
+                <a href="/contact" className="btn-primary">Order Now</a>
+              </div>
             </div>
           </div>
         ))}

@@ -6,9 +6,30 @@ import Footer from '../components/Footer'
 import '../styles/Header.css'
 
 const products = [
-  { id: 1, name: 'Live Chickens', image: 'https://via.placeholder.com/400x300?text=Live+Chickens', description: 'Healthy live chickens raised with care.' },
-  { id: 2, name: 'Fresh Eggs', image: 'https://via.placeholder.com/400x300?text=Fresh+Eggs', description: 'Farm-fresh eggs collected daily.' },
-  { id: 3, name: 'Dressed Chickens', image: 'https://via.placeholder.com/400x300?text=Dressed+Chickens', description: 'Ready-to-cook dressed chickens.' }
+  {
+    id: 1,
+    name: 'Broiler Chickens',
+    image: '/images/products/broiler-chickens/broiler-chickens-01.jpg',
+    description: 'Fresh quality broilers for your table.'
+  },
+  {
+    id: 2,
+    name: 'Day-Old Chicks',
+    image: '/images/products/day-old-chicks/day-old-chicks-01.jpg',
+    description: 'Healthy broiler chicks for farmers.'
+  },
+  {
+    id: 3,
+    name: 'Fertile Eggs',
+    image: '/images/products/fertile-eggs/fertile-eggs-01.jpg',
+    description: 'Quality fertile eggs for incubation.'
+  },
+  {
+    id: 4,
+    name: 'Organic Fertilizer',
+    image: '/images/products/organic-fertilizer/organic-fertilizer-01.jpg',
+    description: 'Poultry manure for agricultural use.'
+  }
 ]
 
 export default function HomePage() {
