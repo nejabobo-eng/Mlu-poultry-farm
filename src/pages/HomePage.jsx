@@ -9,7 +9,7 @@ const products = [
   {
     id: 1,
     name: 'Broiler Chickens',
-    image: '/images/products/broiler-chickens/broiler-chickens-01.jpg',
+    image: '/images/products/broiler-chickens/broiler-chickens-01.png',
     description: 'Fresh quality broilers for your table.'
   },
   {
@@ -27,7 +27,7 @@ const products = [
   {
     id: 4,
     name: 'Organic Fertilizer',
-    image: '/images/products/organic-fertilizer/organic-fertilizer-01.jpg',
+    image: '/images/products/organic-fertilizer/organic-fertilizer-01.webp',
     description: 'Poultry manure for agricultural use.'
   }
 ]
