@@ -3,7 +3,7 @@ export default function Footer() {
     <footer className="footer">
       <div className="footer-content">
         <div className="footer-section">
-          <h3>Mlu Poultry Farm (Pty) Ltd</h3>
+          <h3>Mlu Poultry Farm</h3>
           <p>Quality poultry products • Ndwedwe, KwaZulu-Natal</p>
         </div>
 
